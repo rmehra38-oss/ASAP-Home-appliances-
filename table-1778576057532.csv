@@ -1,0 +1,6 @@
+﻿Feature,Status
+**REST API**,6 route modules with full CRUD
+**Auth**,JWT-based with admin protection
+**Models**,"Booking, User, Review, Contact, AMC"
+**Email**,Nodemailer with booking confirmation & admin alerts
+**Security**,"Helmet, rate limiting, CORS, compression"
